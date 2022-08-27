@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ERTYUOAF
-- 👀 I’m interested in Python, C++, C#, Python, Front-End Languages  
+- 👀 I’m interested in Python, C++, C#, Java, JavaScript, Front-End Languages  
 - 🌱 I’m currently learning C++
 - 📫 How to reach me Discord: ERTYUOAF#1337
 

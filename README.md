@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, C++, C#, Java, JavaScript, Front-End Languages  
 - 🌱 I’m currently learning C++
 - 🖥️ Game Hacking, Exploiter
-- 📫 How to reach me Discord: ERTYUOAF#8226
+- 📫 Discord: ERTYUOAF#8226
 
 <!---
 ERTYUOAF/ERTYUOAF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
